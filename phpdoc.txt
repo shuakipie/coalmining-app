@@ -1,0 +1,39 @@
+PHPDoc Tutorial
+---------------------------------------------
+Function
+Constant
+Class
+Interface
+Trait
+Class Constant
+Property
+Method
+
+/**     Single line Doc Comment */
+
+/** 
+*       Multi Line Doc Block
+*       [whitespace]
+*       Description
+*/
+
+Running PHPDoc
+---------------------------------------------------
+$ phpdoc -d path/to/my/project -f path/to/an/additional/file -t path/to/my/output/folder
+
+28 Tags
+------------------------------------------------
+/**
+*   @api API Purpose  - Scripts used for public 
+*   @author Karthik <mail2nkm@gmail.com>
+*   @category 
+*   
+@category
+@copyright
+
+
+
+
+
+
+
